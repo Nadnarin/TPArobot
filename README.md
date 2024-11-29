@@ -7,3 +7,6 @@
 - [Solve ESP32 Sketch Too Big](https://thecustomizewindows.com/2020/03/solve-esp32-sketch-too-big-error-on-arduino-ide/)
 - [BTS7960 43A Motor Driver](https://electropeak.com/learn/interfacing-bts7960-43a-high-power-motor-driver-module-with-arduino/)
 - [SCARA Robot](https://howtomechatronics.com/projects/scara-robot-how-to-build-your-own-arduino-based-robot/)
+- [ps5controller](https://github.com/rodneybakiskan/ps5-esp32)
+- [omni](https://github.com/hijimasa/omni_wheel_controller?tab=readme-ov-file)
+- [Adafruit-PWM-Servo-Driver-Library](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library)
